@@ -1,4 +1,4 @@
-# Seleção
+# Seleção - Etapa 4 - Teste técnico
 
 Escreva uma receita para a automação da instalação da aplicação Flask e do MinIO. Essa receita pode ser desenvolvida utilizando a linguagem ou ferramenta que se sentir mais confortável, como por exemplo Puppet, Chef, Ansible, Shell Script, Python etc. O importante nesse ponto é que a instalação seja totalmente automatizada, permitindo a reconstrução completa do ambiente utilizando somente a automação que você vai desenvolver. Lembrando que, todas as instruções de dependências, instalação e uso da aplicação, estão dentro do arquivo README do projeto.
 
